@@ -1,0 +1,1 @@
+print("My name is Dmitriy.I m 15 years old.I like cs 2.")
